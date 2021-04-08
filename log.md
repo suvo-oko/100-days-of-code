@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 1: April 8 30, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Today's Progress
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- I'm using the book [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) to build the foundations.
+- The author has [a page with resources](https://ehmatthes.github.io/pcc_2e/regular_index/) to accompany the book.
+- Today I studied chapters 2, 3 and 4 of the book.
+- The topics covered were:
+  - Variables
+  - Strings
+  - Numbers (integers, and floats)
+  - Lists
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Thoughts
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+- I had studied some Python before, and even took a course on Linux Academy, but now I want to take it seriously and trace my progress.
+- That's why I want to start with the basics and build from there.
+- For the first month or so of this journey, I'll be following the **Python Crash Course** book.
+- I'll write code every day, but for the beginning it will be more like notes to my future self and to others.
+- This is [my Python Journey repo](https://github.com/suvo-oko/python-journey)
+  
+### Link to work
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Python Journey](https://github.com/suvo-oko/python-journey)
