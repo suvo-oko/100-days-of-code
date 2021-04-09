@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 1: April 8 30, 2021
+## Day 1: April 8, 2021
 
 ### Today's Progress
 
@@ -24,3 +24,16 @@
 ### Link to work
 
 [Python Journey](https://github.com/suvo-oko/python-journey)
+
+## Day 2: April 9, 2021
+
+### Today's Progress
+
+- Still with the book **Python Crash Course**.
+- Today I finished *chapter 4* and started *chapter 5*
+- Topics covered:
+  - Lists
+  - List comprehension
+  - Tuples
+  - If statements
+ 
