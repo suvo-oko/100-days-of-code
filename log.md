@@ -36,4 +36,14 @@
   - List comprehension
   - Tuples
   - If statements
- 
+
+### Thoughts
+
+- For now, I'm enjoying my studies.
+
+## Day 3: April 10, 2021
+
+### Today's Progress
+
+- Today I finished Chapter 5 of Python Crash Course.
+- I did some exercises from the book.
