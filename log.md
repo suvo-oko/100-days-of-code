@@ -47,3 +47,11 @@
 
 - Today I finished Chapter 5 of Python Crash Course.
 - I did some exercises from the book.
+
+## Day 4: April 11, 2021
+
+### Today's Progress
+
+- Going through the Pluralsight course.
+- Experimenting with the rock, paper, scissors game.
+  
